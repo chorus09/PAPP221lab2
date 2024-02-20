@@ -1,0 +1,25 @@
+[2/20/2024 3:26:31 AM] - All faculties retrieved
+[2/20/2024 3:26:50 AM] - Faculty students list updated
+[2/20/2024 3:26:50 AM] - Faculty added: Programare si analiza produselor de program
+[2/20/2024 3:27:19 AM] - Faculty students list updated
+[2/20/2024 3:27:19 AM] - Faculty added: Administrarea aplicatiilor WEB
+[2/20/2024 3:27:22 AM] - All faculties retrieved
+[2/20/2024 3:27:59 AM] - Student added to Programare si analiza produselor de program: Codac Green
+[2/20/2024 3:27:59 AM] - Student added: Codac Green
+[2/20/2024 3:28:04 AM] - Retrieved current enrolled students
+[2/20/2024 3:28:06 AM] - Property IsGraduated changed for student Codac Green (Email: codgreen@gmail.com).
+[2/20/2024 3:28:06 AM] - Student graduated from Programare si analiza produselor de program: Codac Green
+[2/20/2024 3:28:06 AM] - Student graduated: Codac Green
+[2/20/2024 3:28:08 AM] - Retrieved currently graduated students
+[2/20/2024 3:28:16 AM] - Checking if student with email codgreen@gmail.com is enrolled
+[2/20/2024 3:28:45 AM] - Student added to Programare si analiza produselor de program: Goog gas
+[2/20/2024 3:28:45 AM] - Student added: Goog gas
+[2/20/2024 3:28:47 AM] - Retrieved currently graduated students
+[2/20/2024 3:28:50 AM] - Retrieved current enrolled students
+[2/20/2024 3:28:59 AM] - All faculties retrieved
+[2/20/2024 3:29:28 AM] - Displayed faculties by field: SOFTWARE_ENGINEERING
+[2/20/2024 3:29:43 AM] - Faculty found by email: Programare si analiza produselor de program
+[2/20/2024 3:29:54 AM] - All faculties retrieved
+[2/20/2024 3:30:00 AM] - All faculties retrieved
+[2/20/2024 3:30:00 AM] - New file created at settings.json
+[2/20/2024 3:30:00 AM] - Data saved successfully
